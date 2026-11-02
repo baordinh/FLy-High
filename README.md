@@ -6,7 +6,7 @@ The gap: TouchDesigner has a strong visual-art community, but much of the best w
 
 ## Status
 
-Early stage. No `.tox` has been published yet. The first piece, [Audio-Reactive Pulse](components/audio-reactive-pulse/README.md), currently ships as a shader and a build script, and has not been tested inside TouchDesigner yet.
+Early stage. The first piece is [Audio-Reactive Pulse](components/audio-reactive-pulse/README.md).
 
 ## Repository layout
 

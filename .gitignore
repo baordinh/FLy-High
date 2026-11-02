@@ -1,0 +1,14 @@
+# TouchDesigner backups and crash saves
+Backup/
+CrashAutoSave*
+*.[0-9]*.toe
+*.dmp
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
